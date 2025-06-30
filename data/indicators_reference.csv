@@ -1,0 +1,9 @@
+indicator_name,indicator_code
+gdp_per_capita,NY.GDP.PCAP.CD
+gdp_growth,NY.GDP.MKTP.KD.ZG
+internet_users,IT.NET.USER.ZS
+mobile_subs,IT.CEL.SETS.P2
+broadband_subs,IT.NET.BBND.P2
+bank_accounts,FX.OWN.TOTL.ZS
+tertiary_education,SE.TER.ENRR
+urban_population,SP.URB.TOTL.IN.ZS
