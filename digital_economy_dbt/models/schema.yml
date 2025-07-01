@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: world_bank_data
+    description: "Raw World Bank data from API"
+    tables:
+      - name: raw_indicators
+        description: "Raw indicator data for all countries"
+        columns:
+          - name: country_code
+          - name: country_name
+          - name: date
+          - name: value
+          - name: indicator
+          - name: indicator_name
